@@ -1,0 +1,10 @@
+# Mantieni le cartelle ma ignora il loro contenuto
+it/*
+!it/.gitkeep
+en/*
+!en/.gitkeep
+
+# File di sistema
+.DS_Store
+__pycache__/
+*.pyc
