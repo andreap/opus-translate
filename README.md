@@ -34,7 +34,7 @@ pip install huggingface_hub
 
 5. Scarica il modello di traduzione:
 ```bash
-huggingface-cli download Helsinki-NLP/opus-mt-it-en --local-dir ./models/opus-mt-it-en
+huggingface-cli download Helsinki-NLP/opus-mt-it-en
 ```
 
 ## Struttura del Progetto
